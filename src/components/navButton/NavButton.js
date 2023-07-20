@@ -1,6 +1,6 @@
 import React from 'react'
 import img from '../../assets/User.png'
-import '../button/Button.css'
+import './NavButton.css'
 
 export default function Button() {
   return (
