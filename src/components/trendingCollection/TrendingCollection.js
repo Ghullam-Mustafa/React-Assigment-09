@@ -31,7 +31,7 @@ export default function TrendingCollection() {
                         </div>
                     </div>
                 </div>
-                <div className="container">
+                <div className="container mt-3">
                     <div className="row d-flex justify-content-around ">
                         <div className="col-lg-4 col-md-12 col-sm-6 ">
                             <Cards src1={img11} src2={img12} src3={img13} src4={img14} title="DSGN Animals" src5={img15} />
