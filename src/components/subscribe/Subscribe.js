@@ -7,11 +7,11 @@ export default function Subscribe() {
   return (
     <div className='subscribe'>
         <div className="container">
-            <div className="row">
-                <div className="col">
-                    <div className="row">
+            <div className="row py-5">
+                <div className="col py-5">
+                    <div className="row clr">
                         <div className="col-lg-6 p-5">
-                            <img src={img} alt="" />
+                            <img src={img} className='img-fluid' alt="" />
                         </div>
                         <div className="col-lg-6 p-5">
                             <h3 className='text-white display-4 fw-bolder'>Join our weekly digest</h3>
