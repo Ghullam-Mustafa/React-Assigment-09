@@ -6,6 +6,7 @@ import TrendingCollection from '../components/trendingCollection/TrendingCollect
 import TopCreater from '../components/topCreater/TopCreater'
 import BrowsCategories from '../components/browsCategories/BrowsCategories'
 import DiscoverMore from '../components/discoverMore/DiscoverMore'
+import FluidImg from '../components/fluidImg/FluidImg'
 
 
 
@@ -19,6 +20,7 @@ export default function MainPage() {
         <TopCreater/>
         <BrowsCategories/>
         <DiscoverMore/>
+        <FluidImg/>
     </div>
   )
 }

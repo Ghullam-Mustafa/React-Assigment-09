@@ -10,7 +10,7 @@ import img32 from '../../assets/Artist Avatar & Name (2).png'
 
 export default function DiscoverMore() {
     return (
-        <div className='discover'>
+        <div className='discover p-3'>
             <div className="container ">
                 <div className="row">
                     <div className="col-lg-9 col-md-9 col-sm-12">
@@ -21,7 +21,7 @@ export default function DiscoverMore() {
             </div>
             
             <div className="container">
-                <div className="row">
+                <div className="row ">
                     <div className="col-lg-4 col-md-6 col-sm-12 my-4">
                         <DiscoverCard src={img11} name="Distant Glaxy" img2={img12} />
                     </div>
