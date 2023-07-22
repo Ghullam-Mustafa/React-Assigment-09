@@ -4,6 +4,7 @@ import Navbar from '../components/navbar/Navbar'
 import HeroSection from '../components/heroSection/HeroSection'
 import TrendingCollection from '../components/trendingCollection/TrendingCollection'
 import TopCreater from '../components/topCreater/TopCreater'
+import BrowsCategories from '../components/browsCategories/BrowsCategories'
 
 
 
@@ -14,6 +15,7 @@ export default function MainPage() {
         <HeroSection/>
         <TrendingCollection/>
         <TopCreater/>
+        <BrowsCategories/>
     </div>
   )
 }

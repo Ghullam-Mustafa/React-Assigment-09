@@ -19,7 +19,7 @@ export default function TopCreater() {
     return (
         <>
             <div className="topCreater">
-                <div className="container border-0">
+                <div className="container ">
                     <div className="row">
                         <div className="col-lg-9 col-md-9 col-sm-12">
                             <p className=' text-white h5 display-5 fw-bold '>Top Creators</p>
@@ -31,7 +31,7 @@ export default function TopCreater() {
                     </div>
                 </div>
 
-                <div className="container">
+                <div className="container ">
                     <div className="row my-2">
                         <div className="col-lg-3 col-md-6 col-sm-6">
                             <Cards number="1" img={img1} name="Keepitreal"/>
@@ -60,7 +60,7 @@ export default function TopCreater() {
                             <Cards number="8" img={img8} name="Robotica"/>
                         </div>
                     </div>
-                    <div className="row my-2">
+                    <div className="row ">
                         <div className="col-lg-3 col-md-6 col-sm-6">
                             <Cards number="9" img={img9} name="RustyRobot"/>
                         </div>

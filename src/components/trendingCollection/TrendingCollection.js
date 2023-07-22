@@ -23,7 +23,7 @@ export default function TrendingCollection() {
     return (
         <>
             <div className='trending border border-0'>
-                <div className="container border-0">
+                <div className="container border-0 pb-2">
                     <div className="row">
                         <div className="col">
                             <p className=' text-white h5 display-5 fw-bold '>Trending Collection</p>
