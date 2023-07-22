@@ -13,7 +13,7 @@ export default function Subscribe() {
                         <div className="col-lg-6 p-5">
                             <img src={img} className='img-fluid' alt="" />
                         </div>
-                        <div className="col-lg-6 p-5">
+                        <div className="col-lg-6  p-5">
                             <h3 className='text-white display-4 fw-bolder'>Join our weekly digest</h3>
                             <h6 className='text-white '>Get exclusive promotions & updates straight to your inbox.</h6>
                             <SubscribeBtn/>

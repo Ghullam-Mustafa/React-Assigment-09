@@ -10,6 +10,7 @@ import DiscoverMore from '../components/discoverMore/DiscoverMore'
 import FluidImg from '../components/fluidImg/FluidImg'
 import HowItWorks from '../components/howItWorks/HowItWorks'
 import Subscribe from '../components/subscribe/Subscribe'
+import Footer from '../components/footer/Footer'
 
 
 
@@ -26,6 +27,7 @@ export default function MainPage() {
         <FluidImg/>
         <HowItWorks/>
         <Subscribe/>
+        <Footer/>
     </div>
   )
 }
