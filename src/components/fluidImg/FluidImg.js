@@ -1,6 +1,6 @@
 import React from 'react'
 import '../fluidImg/FluidImg.css'
-import img from '../../assets/NFT Highlight (1).png'
+import img from '../../assets/NFT Highlight.png'
 
 export default function FluidImg() {
   return (

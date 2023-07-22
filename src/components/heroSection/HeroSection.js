@@ -39,7 +39,7 @@ export default function HeroSection() {
                                 </div>
                             </div>
                         </div> */}
-                        <div className="card border-0 cards d-flex justify-content-around" >
+                        <div className="card border-0 cardss d-flex justify-content-around" >
                             <img src={img} className="card-img-top" alt="..." />
                             <div className="card-body">
                             <h5 className='text-white h5  fw-bold'>Space Walking</h5>
