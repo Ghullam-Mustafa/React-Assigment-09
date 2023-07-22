@@ -5,7 +5,7 @@ import './NavButton.css'
 export default function Button() {
   return (
     <div>
-        <button type="button" class="btn  "> <img src={img} className='img' alt="" /><span className='m-2 text'>Sign Up</span> </button>
+        <button type="button" class="btn button  "> <img src={img} className='img' alt="" /><span className='m-2 text'>Sign Up</span> </button>
     </div>
   )
 }
