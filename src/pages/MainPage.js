@@ -1,5 +1,6 @@
 import React from 'react'
 import "bootstrap/dist/css/bootstrap.min.css"
+import 'bootstrap/dist/js/bootstrap.bundle'
 import Navbar from '../components/navbar/Navbar'
 import HeroSection from '../components/heroSection/HeroSection'
 import TrendingCollection from '../components/trendingCollection/TrendingCollection'
@@ -8,6 +9,7 @@ import BrowsCategories from '../components/browsCategories/BrowsCategories'
 import DiscoverMore from '../components/discoverMore/DiscoverMore'
 import FluidImg from '../components/fluidImg/FluidImg'
 import HowItWorks from '../components/howItWorks/HowItWorks'
+import Subscribe from '../components/subscribe/Subscribe'
 
 
 
@@ -23,6 +25,7 @@ export default function MainPage() {
         <DiscoverMore/>
         <FluidImg/>
         <HowItWorks/>
+        <Subscribe/>
     </div>
   )
 }

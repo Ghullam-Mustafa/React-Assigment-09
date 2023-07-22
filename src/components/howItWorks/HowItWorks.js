@@ -20,7 +20,7 @@ export default function HowItWorks() {
             </div>
 
             <div className="container">
-                <div className="row">
+                <div className="row d-flex justify-content-between">
                     <div className="col-lg-4 col-md-12 col-sm-12 my-3">
                         <HowItWorksCards src={img1} title="Setup Your Wallet" para="Set up your wallet of choice. Connect it to the Animarket by clicking the wallet icon in the top right corner." />
                     </div>

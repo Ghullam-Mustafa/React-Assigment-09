@@ -6,7 +6,7 @@ import hamburger from '../../assets/Burger Menu.png'
 
 export default function Navbar() {
   return (
-    <div className='navbar'>
+    <div className='navbar px-5'>
       <div className="one">
         <img src={logo} className='img-fluid mx-auto' alt="" />
       </div>
