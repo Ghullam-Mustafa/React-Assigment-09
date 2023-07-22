@@ -5,6 +5,8 @@ import HeroSection from '../components/heroSection/HeroSection'
 import TrendingCollection from '../components/trendingCollection/TrendingCollection'
 import TopCreater from '../components/topCreater/TopCreater'
 import BrowsCategories from '../components/browsCategories/BrowsCategories'
+import DiscoverMore from '../components/discoverMore/DiscoverMore'
+
 
 
 
@@ -16,6 +18,7 @@ export default function MainPage() {
         <TrendingCollection/>
         <TopCreater/>
         <BrowsCategories/>
+        <DiscoverMore/>
     </div>
   )
 }
